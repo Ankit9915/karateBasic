@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: features.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 3.07 s <<< FAILURE! - in features.TestRunner
+deleteApiTest  Time elapsed: 3.028 s  <<< ERROR!
+java.lang.RuntimeException: not found: features/deleteApi.feature
+
+putApiTest  Time elapsed: 3.062 s  <<< ERROR!
+java.lang.RuntimeException: not found: features/putApi.feature
+
+postApiTest  Time elapsed: 3.065 s  <<< ERROR!
+java.lang.RuntimeException: not found: features/postApi.feature
+
+getApiTest  Time elapsed: 3.067 s  <<< ERROR!
+java.lang.RuntimeException: not found: features/getApi.feature
+
